@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+      "target": "es2017", // Wybierz wersję ECMAScript, na którą kompilujesz
+      "module": "commonjs", // Typ modułu
+      "strict": true, // Włącz ścisłe sprawdzanie typów
+      "esModuleInterop": true, // Włącz interoperacyjność modułów ES
+      "skipLibCheck": true, // Pomijaj sprawdzanie typów w plikach .d.ts
+      "forceConsistentCasingInFileNames": true, // Wymuś spójną wielkość liter w nazwach plików
+      "types": ["@testing-library/jest-dom"],
+      "jsx": "react-jsx",
+      "lib": ["dom", "es2017"],
+  },
+  "include": [
+      "src/**/*.ts" // Ścieżki do plików źródłowych
+  ],
+  "exclude": [
+      "node_modules" // Pomijaj katalog node_modules
+  ]
+}

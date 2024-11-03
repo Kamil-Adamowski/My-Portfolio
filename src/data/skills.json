@@ -1,0 +1,18 @@
+{
+  "skills": [
+    { "name": "HTML", "icon": "FaHtml5" },
+    { "name": "CSS", "icon": "FaCss3Alt" },
+    { "name": "Bootstrap", "icon": "BsFillBootstrapFill" },
+    { "name": "Tailwind", "icon": "SiTailwindcss" },
+    { "name": "JavaScript", "icon": "IoLogoJavascript" },
+    { "name": "Typescript", "icon": "SiTypescript" },
+    { "name": "React", "icon": "FaReact" },
+    { "name": "PHP", "icon": "FaPhp" }
+  ],
+  "graphicSkills": [
+    { "name": "Photoshop", "icon": "SiAdobephotoshop" },
+    { "name": "Illustrator", "icon": "SiAdobeillustrator" },
+    { "name": "Figma", "icon": "SiFigma" },
+    { "name": "Blender", "icon": "SiBlender" }
+  ]
+}
