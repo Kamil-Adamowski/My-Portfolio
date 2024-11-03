@@ -1,5 +1,5 @@
 import React from 'react'
-import { HeroHeader } from './heroHeader';
+import { HeroHeader } from './HeroHeader';
 import { SocialLinks } from '../../common/SocialLinks';
 
 export const HeroSection = () => (
